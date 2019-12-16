@@ -5,13 +5,21 @@ This is a project completed during UCLA's Electronics for Physics Measurement co
 The game is simple. Player 1 presses their button and the clock starts. Player 2 presses their button  
 as quickly as they can after Player 1. The game is reset by holding down both buttons for 1 second. 
 
-A short demo of the game can be seen below. The game is started and stopped several times and then reset.
+A short demo of the game can be seen below, in which the timer is started and stopped several times and then reset. 
 
 ![](reaction_game_box_demo.gif)
 
+Images of the inner circuitry of the game:
+
+![alt text](https://github.com/cmordinibluhm/reaction_test_game/blob/master/display_board.png "Reaction Game Circuit Diagram")
+
+![alt text](https://github.com/cmordinibluhm/reaction_test_game/blob/master/game_board.png "Reaction Game Circuit Diagram")
+
+Below is a demo of a prototype of the game on a breadboard.  
+
 ![](reaction_test_game_breadboard.gif)
 
-Below is a diagram of the game, created from scratch with Google Drawings.
+Below is a diagram of the game, created with Google Drawings.
 
 ![alt text](https://github.com/cmordinibluhm/reaction_test_game/blob/master/reaction_game_diagram.jpg "Reaction Game Circuit Diagram")
 
