@@ -9,13 +9,13 @@ A short demo of the game can be seen below, in which the timer is started and st
 
 ![](reaction_game_box_demo.gif)
 
-Images of the inner circuitry of the game:
+Upper circuit constructed by myself:  
 
 ![alt text](https://github.com/cmordinibluhm/reaction_test_game/blob/master/display_board.png "Reaction Game Circuit Diagram")
-Lower circuit construction performed by my partner. 
+
+Lower circuit constructed by my partner:  
 
 ![alt text](https://github.com/cmordinibluhm/reaction_test_game/blob/master/game_board.png "Reaction Game Circuit Diagram")
-Upper circuit construction performed by myself.
 
 Below is a demo of a prototype of the game on a breadboard.  
 
